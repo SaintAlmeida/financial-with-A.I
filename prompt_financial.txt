@@ -1,0 +1,3 @@
+Prompt:
+
+ Utilize a tabela de dados acima como base de conhecimentos e me gere insights dessa tabela de gastos
